@@ -31,4 +31,4 @@ This is a simple web-based Random Password Generator built using HTML, CSS, and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/pranayjha410/random-password-generator.git
